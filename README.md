@@ -71,6 +71,21 @@ Our auditor targets physical hardware behaviors to ensure 90-95% accuracy in ene
     Open the local server URL. The **BrowserPod** will initialize automatically. Paste your Python code to start the "Green Audit."
 
 ---
+## 🏗️ Project Structure
+```text
+Green Software Credit System/
+├── gscs-frontend/         # React + Tailwind CSS UI
+│   ├── src/               # UI Components & BrowserPod Integration
+│   └── public/            # Static assets
+└── gscs-backend/          # Python Logic (Runs inside BrowserPod)
+    ├── core/
+    │   ├── auditor.py     # Main Static Analysis Engine (AST)
+    │   ├── scanner.py     # Code pattern matcher
+    │   └── scorer.py      # Scoring & Credit calculation logic
+    └── config/
+        └── rules.json     # Configurable efficiency rules
+
+---
 
 ## 👥 The Team
 
