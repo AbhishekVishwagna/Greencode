@@ -34,7 +34,7 @@ A Python-based logic core that runs inside the **BrowserPod** sandbox.
 
 ---
 
-## The Green Scoring Logic
+## The Greencode Scoring Logic
 
 Our auditor targets physical hardware behaviors to ensure 90-95% accuracy in energy estimation:
 
@@ -45,7 +45,7 @@ Our auditor targets physical hardware behaviors to ensure 90-95% accuracy in ene
 
 ---
 
-## Getting Started
+## System Initialization
 
 ### Prerequisites
 *   **Node.js** (v18.0.0 or higher)
@@ -82,10 +82,10 @@ Our auditor targets physical hardware behaviors to ensure 90-95% accuracy in ene
     Launch the local server URL. The **BrowserPod** will automatically spin up the Python environment in your browser tab using the provided API key[cite: 1].
 ---
 
-## The Team
+## Team Members
 
 *   **Abhishek Basavaraj Vishwagna** 
-*   **Siddhant**
+*   **Siddhant M**
 
 ---
 ## Project Structure
