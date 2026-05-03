@@ -71,6 +71,13 @@ Our auditor targets physical hardware behaviors to ensure 90-95% accuracy in ene
     Open the local server URL. The **BrowserPod** will initialize automatically. Paste your Python code to start the "Green Audit."
 
 ---
+
+## 👥 The Team
+
+*   **Abhishek Basavaraj Vishwagna** 
+*   **Siddhant**
+
+---
 ## 🏗️ Project Structure
 ```text
 Green Software Credit System/
@@ -84,12 +91,4 @@ Green Software Credit System/
     │   └── scorer.py      # Scoring & Credit calculation logic
     └── config/
         └── rules.json     # Configurable efficiency rules
-
-
----
-
-## 👥 The Team
-
-*   **Abhishek Basavaraj Vishwagna** 
-*   **Siddhant**
 
